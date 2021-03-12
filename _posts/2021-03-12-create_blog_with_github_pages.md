@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "我心与世界"
+title: "用我心，观世界"
 date:   2021-03-12
 tags: [践]
 comments: true

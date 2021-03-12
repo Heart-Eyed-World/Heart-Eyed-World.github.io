@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "用我心，观世界"
+title: "学思践悟"
 date:   2021-03-12
 tags: [践]
 comments: true

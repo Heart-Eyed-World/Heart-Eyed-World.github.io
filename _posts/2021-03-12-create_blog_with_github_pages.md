@@ -2,7 +2,7 @@
 layout: post
 title: "学思践悟"
 date:   2021-03-12
-tags: [践]
+tags: [学思践悟]
 comments: true
 author: 山顶洞人
 ---

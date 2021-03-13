@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "英雄与武德"
+title: "英雄、武德与时机"
 date:   2021-03-14
 tags: [学思践悟]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "法治、德法与无为而治"
+title: "法治、德治与无为而治"
 date:   2021-03-13
 tags: [学思践悟]
 comments: true

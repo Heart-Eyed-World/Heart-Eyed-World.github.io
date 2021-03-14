@@ -17,27 +17,25 @@ author: 山顶洞人
 
 **比如，可以一键搜索多渠道旅游信息，可以一键翻译多语种**
 
-![image-20210314212756032](/Users/xiejunze/Library/Application Support/typora-user-images/image-20210314212756032.png)
-
-
+![bF48BU9qPOD5mRZ](https://i.loli.net/2021/03/14/bF48BU9qPOD5mRZ.png)
 
 
 
 **再如，可以在很多不同的购物网站上一键同时搜索商品信息，比价神器啊？搜索应用程序也是一样的。**
 
-![image-20210314212947250](/Users/xiejunze/Library/Application Support/typora-user-images/image-20210314212947250.png)
+![Ndiy3C1IUH94qQc](https://i.loli.net/2021/03/14/Ndiy3C1IUH94qQc.png)
 
 
 
 还有学术狗经常要用的各种搜索引擎和搜索渠道。注意：可以随便增加、减少、自定义哦！
 
-
+![emJy4hPzNHFRiIv](https://i.loli.net/2021/03/14/emJy4hPzNHFRiIv.png)
 
 ## MAC系统：AnyDrop
 
 因为Mac系统的基础架构和手机端不同，因此Mac系统没有Ai Search。但是，Mac系统也有另一款类似软件（同一开发者）可以实现这个功能，它叫AnyDrop。AnyDrop还可以设置一键搜的快捷键，不要太爽哦！首先定位到想要查的词，然后ctrl+C（复制），再按ctrl+G（这是我的一键搜快捷键，自动搜索复制的内容）。下面是我经常用的一键搜：
 
-![image-20210314215213232](/Users/xiejunze/Library/Application Support/typora-user-images/image-20210314215213232.png)
+![py4snCLe5YcRjPf](https://i.loli.net/2021/03/14/py4snCLe5YcRjPf.png)
 
 这时候，所有你想查的搜索引擎和搜索渠道，同时启动搜索，各个搜索结果分别列在浏览器的标签页。最后就是一个个看哪个搜索引擎有满意的搜索结果就行了。
 

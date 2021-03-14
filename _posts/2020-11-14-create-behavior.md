@@ -2,7 +2,7 @@
 layout: post
 title: "人的行为是法律治理与科技治理的公约数"
 date:   2020-11-14
-tags: [智能社会]
+tags: [智能社会,网络法学,智能监管,大数据建模]
 comments: true
 author: 山顶洞人
 ---

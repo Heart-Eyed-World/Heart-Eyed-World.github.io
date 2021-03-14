@@ -2,7 +2,7 @@
 layout: post
 title: "十年展望：智能社会与专业布局"
 date:   2019-07-02
-tags: [智能社会]
+tags: [智能社会,学思践悟]
 comments: true
 author: 山顶洞人
 ---

@@ -2,7 +2,7 @@
 layout: post
 title: "发现行为的趋势与纠正趋势的偏离是企业合规治理的根本目的"
 date:   2020-11-14
-tags: [智能社会]
+tags: [智能监管,大数据建模,智能社会]
 comments: true
 author: 山顶洞人
 ---

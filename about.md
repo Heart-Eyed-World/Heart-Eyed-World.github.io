@@ -36,7 +36,7 @@ permalink: /about/
 
 域名访问地址：<http://xiejunze.world>
 
-国外主要网站：<https://heart-eyed-world.github.io/>
+国外主要站点：<https://heart-eyed-world.github.io/>
 
 国内同步站点：<https://heart-eyed-world.gitee.io/>
 

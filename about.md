@@ -38,9 +38,7 @@ permalink: /about/
 
 国际主站：<https://heart-eyed-world.github.io/>
 
-域名访问：
-
-[xiejunze.world]: xiejunze.world
+域名访问：**`[xiejunze.world](xiejunze.world)`**
 
 作者电邮：<junzexie@yeah.net>
 

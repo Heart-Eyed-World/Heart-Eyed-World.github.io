@@ -34,12 +34,12 @@ permalink: /about/
 
 ## 访问网址
 
-域名访问地址：<http://xiejunze.world>
+国内镜像：<https://heart-eyed-world.gitee.io/>
 
-国外主要站点：<https://heart-eyed-world.github.io/>
+国际主站：<https://heart-eyed-world.github.io/>
 
-国内同步站点：<https://heart-eyed-world.gitee.io/>
+域名地址：<http://xiejunze.world>
 
-联系作者电邮：<junzexie@yeah.net>
+作者电邮：<junzexie@yeah.net>
 
-站内评论互动：参与文章下方评论须注册并登录Github账户（国外）。
+站内互动：参与文章下方评论，须注册并登录Github账户（国外）。

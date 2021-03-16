@@ -2,7 +2,7 @@
 layout: post
 title: "何家弘、谢君泽：网络犯罪主体的同一认定"
 date:   2020-10-18
-tags: [证据制度,网络法学,智能社会]
+tags: [司法证明,网络法学,智能社会]
 comments: true
 author: 山顶洞人
 ---

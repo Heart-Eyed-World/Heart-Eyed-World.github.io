@@ -2,7 +2,7 @@
 layout: post
 title: "谢君泽：论大数据证明"
 date:   2020-04-07
-tags: [大数据建模,证据制度,网络法学,智能社会]
+tags: [大数据建模,司法证明,网络法学,智能社会]
 comments: true
 author: 山顶洞人
 ---

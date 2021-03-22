@@ -2,7 +2,7 @@
 layout: post
 title: "大数据侦查到人工智能的进化"
 date:   2018-04-10
-tags: [学思践悟]
+tags: [大数据建模,司法证明，智能监管，智能社会]
 comments: true
 author: 山顶洞人
 ---

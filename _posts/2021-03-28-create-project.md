@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "做学术不如做学问"
+title: "学术与学问"
 date:   2021-03-28
 tags: [学思践悟]
 comments: true

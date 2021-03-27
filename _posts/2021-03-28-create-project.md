@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "做学术不如做学问"
-date:   2021-03-27
+date:   2021-03-28
 tags: [学思践悟]
 comments: true
 author: 山顶洞人

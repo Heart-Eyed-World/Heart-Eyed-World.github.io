@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "谢君泽：空间至上"
+title: "智能社会治理的法学观察"
 date:   2021-05-10
-tags: [学思践悟]
+tags: [大数据建模,网络法学,智能社会]
 comments: true
 author: 山顶洞人
 ---

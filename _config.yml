@@ -64,7 +64,7 @@ disqus: # fromendworld
 # Gitalk
 gitalk:
   clientID: b5144e6e011acab3b0a4
-  clientSecret: 9293a1b79b414fa94ccee80393661c1feeb933f3
+  clientSecret: 8dae971f443caec1038f0a829edb1eb9a9ef25e0
   repo: heart-eyed-world.github.io
   owner: Heart-Eyed-World
 

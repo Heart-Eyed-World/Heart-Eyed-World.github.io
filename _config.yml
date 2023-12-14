@@ -65,7 +65,7 @@ disqus: # fromendworld
 gitalk:
   clientID: b5144e6e011acab3b0a4
   clientSecret: 8dae971f443caec1038f0a829edb1eb9a9ef25e0
-  repo: heart-eyed-world.github.io
+  repo: Heart-Eyed-World.github.io
   owner: Heart-Eyed-World
 
 # Enter your Google Analytics web tracking code (e.g. UA-2110908-2) to activate tracking

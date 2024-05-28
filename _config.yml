@@ -12,9 +12,9 @@ description: "重塑认知-->创新方法-->平衡价值"
 #
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: https://Heart-Eyed-World.github.io/images/title.jpg
+avatar: https://joezer.github.io/images/title.jpg
 # 你的favicon（出现在浏览器tab上）图片URL，建议使用较小(64px × 64px)的图片
-favicon: https://Heart-Eyed-World.github.io/images/favicon.ico
+favicon: https://joezer.github.io/images/favicon.ico
 
 # Tabs in header. There are 'Blog', 'About', 'Archive', 'Tags'
 # and URL Link(e.g. 'Theme' tab below) tabs. If you don't need one, just delete
@@ -43,7 +43,7 @@ footer-links:
   email: joezerxie@gmail.com
   facebook:
   flickr:
-  github: Heart-Eyed-World 
+  github: joezer 
   googleplus: # anything in your profile username that comes after plus.google.com/
   instagram:
   linkedin:
@@ -55,7 +55,7 @@ footer-links:
   youtube:
 
 # Text under the icons in footer
-footer-text: Copyright (c) 2021 Heart-Eyed-World
+footer-text: Copyright (c) 2024 Joezer
 
 # Enter your Disqus shortname (not your username) to enable commenting on posts
 # You can find your shortname on the Settings page of your Disqus account
@@ -65,7 +65,7 @@ disqus: # fromendworld
 gitalk:
   clientID: b5144e6e011acab3b0a4
   clientSecret: 8dae971f443caec1038f0a829edb1eb9a9ef25e0
-  repo: Heart-Eyed-World.github.io
+  repo: joezer.github.io
   owner: Heart-Eyed-World
 
 # Enter your Google Analytics web tracking code (e.g. UA-2110908-2) to activate tracking
@@ -73,7 +73,7 @@ google_analytics: UA-191996735-1
 
 # Your website URL (e.g. http://barryclark.github.io or http://www.barryclark.co)
 # Used for Sitemap.xml and your RSS feed
-url: https://heart-eyed-world.github.io
+url: https://joezer.github.io
 
 # If you're hosting your site at a Project repository on GitHub pages
 # (http://yourusername.github.io/repository-name)
